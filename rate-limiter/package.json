@@ -1,0 +1,16 @@
+{
+  "name": "rate-limiter",
+  "version": "1.0.0",
+  "description": "rate limiter with different algorithms",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vu Pham",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "redis": "^4.6.8"
+  }
+}
